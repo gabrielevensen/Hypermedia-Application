@@ -4,6 +4,10 @@
 
 ## Technical documentation:
 
+[<< Design Document >>](HypermediaApplication.pdf)
+
+## Technical documentation:
+
 ### Server and DB technologies:
 
 NPM is the Node Package Manager we use in this project. It allows us to download modules and use it in our project.
