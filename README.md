@@ -1,6 +1,6 @@
 # Smart Solver Website
 
-[<< link to the website >>](https://smartsolver.herokuapp.com)
+[<< Link to the website >>](https://smartsolver.herokuapp.com)
 
 ## Technical documentation:
 
