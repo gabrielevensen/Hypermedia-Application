@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\components\\blog",
+    "\\pages",
+    "\\pages\\area_",
+    "\\pages\\people",
+    "\\pages\\services",
+    "\\server",
+    "\\server\\rest",
+    "\\static"
+  ],
+  "SelectedNode": "\\server\\db-conn.js",
+  "PreviewInSolutionExplorer": false
+}
