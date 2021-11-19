@@ -2,7 +2,7 @@
 
 [<< Link to the website >>](https://smartsolver.herokuapp.com)
 
-## Technical documentation:
+## Design documentation:
 
 [<< Design Document >>](HypermediaApplication.pdf)
 
